@@ -38,6 +38,7 @@
 
 * Slides TBA
 * [Ice breaker activity](https://bit.ly/ssi-icebreaker)
+* [Data Visulization Slides](https://bit.ly/ssi2020viz)
 
 ## Presentations
 
