@@ -47,9 +47,9 @@
 ## Data
 
 * Data are [here](https://drive.google.com/drive/folders/1EF0EUTior7hIFgv_HBu80L3dimEYRVYm?usp=sharing). You can also the data [here](https://github.com/PACESTEM/STEMINSTITUTE2020) and clone the repository. 
-* [Sample data](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/2018expeditions.csv) (2018expeditions.csv file) (20 expeditions) - To be used during sessions
-* [BOP data](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/bop_data_retrivedbyian.csv) (bop_data_retrivedbyian.csv file) (1097 expeditions) - To be used for the project
-* [(Cleaner) data from 2016 to 2019](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/bop_data_2016_2019.csv) (bop_data_2016_2019.csv file) (7594 expeditions) - To be used for the project
+* [Sample data](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/2018expeditions.csv) (2018expeditions.csv file) (20 lines) - To be used during sessions
+* [BOP data](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/bop_data_retrivedbyian.csv) (bop_data_retrivedbyian.csv file) (1097 lines) - To be used for the project
+* [(Cleaner) data from 2016 to 2019](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/bop_data_2016_2019.csv) (bop_data_2016_2019.csv file) (7594 lines) - To be used for the project
 
 ## Project
 
