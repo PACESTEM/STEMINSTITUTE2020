@@ -36,7 +36,7 @@
 
 ## Design thinking
 
-* Slides TBA
+* [Slides](https://bit.ly/ssi2020dt)
 * [Ice breaker activity](https://bit.ly/ssi-icebreaker)
 * [Data Visulization Slides](https://bit.ly/ssi2020viz)
 
