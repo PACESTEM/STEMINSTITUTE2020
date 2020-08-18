@@ -6,6 +6,10 @@
 
 ![](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/nsf.png)
 
+## Seidenberg STEM 
+
+* [Here](https://www.pace.edu/seidenberg/special-events/stem-summer-institute)
+
 ## Objectives
 
 - Be more knowledgeable about the Billion Oyster Project
