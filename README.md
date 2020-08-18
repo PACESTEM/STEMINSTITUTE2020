@@ -2,6 +2,10 @@
 
 ![logostem2020](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/logostem2020.png)
 
+*This material is based upon work supported by the National Science Foundation under NSF EHR DRL. 1839656/PI Lauren Birney. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.*
+
+![](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/nsf.png)
+
 ## Objectives
 
 - Be more knowledgeable about the Billion Oyster Project
@@ -36,9 +40,9 @@
 
 ## Design thinking
 
-* [Slides](https://bit.ly/ssi2020dt)
 * [Ice breaker activity](https://bit.ly/ssi-icebreaker)
 * [Data Visulization Slides](https://bit.ly/ssi2020viz)
+* [Design Thinking Slides](https://bit.ly/ssi2020dt)
 
 ## Presentations
 
