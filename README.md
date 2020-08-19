@@ -49,10 +49,15 @@
 * [Design Thinking Slides](https://bit.ly/ssi2020dt)
 * [Storytelling](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/STORYTELLING.pdf)
 
-## Presentations
+## Science presentations
 
 * Agata Poniatowski, Education Outreach Coordinator at the Billion Oyster Project. [Slides](https://docs.google.com/presentation/d/1TKxkSpPoYSH3IW7vy0Qdzj10VNR3K3VnQZzfJ4RID0E/edit?usp=drivesdk)
 * Dr. Stephen Gosnell, Assistant Professor, Department of Natural Sciences, Baruch College & Graduate Center, CUNY. [Slides](https://docs.google.com/presentation/d/1h2rRI-bWT5F0bu--6OUn0IS1Fd9mxrEP4BDp3R8Hoq8/edit?usp=sharing)
+
+## Company presentations
+
+* [AppFigures](https://appfigures.com)
+* Google
 
 ## Data
 
@@ -129,30 +134,60 @@ Presentations, code, murals etc.
 * Team 1
   * [Mural](https://bit.ly/ssi-team1-m)
   * [Allan Poe Exercise](https://docs.google.com/spreadsheets/d/1XFUAdrDo9r3VWcfg1zBwfcl8gbG2exaA7KApdwHjw2I/edit?usp=sharing)
+  * [Google Colab]()
+  * [Presentation]()
+  * [Video]()
 * Team 2
   * [Mural](https://bit.ly/ssi-team2-m)
   * [Allan Poe Exercise]()
+  * [Google Colab]()
+  * [Presentation]()
+  * [Video]()
 * Team 3
   * [Mural](https://bit.ly/ssi-team3-m)
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/1gU0OoceGdDtpgVHkkbfTtVTTTuTm96xYa_cVgtYNCDY/edit#slide=id.p)
+  * [Google Colab]()
+  * [Presentation]()
+  * [Video]()
 * Team 4
   * [Mural](https://bit.ly/ssi-team4-m)
   * [Allan Poe Exercise]()
+  * [Google Colab]()
+  * [Presentation]()
+  * [Video]()
 * Team 5
   * [Mural](https://bit.ly/ssi-team5-m)
   * [Allan Poe Exercise]()
+  * [Google Colab]()
+  * [Presentation]()
+  * [Video]()
 * Team 6
   * [Mural](https://bit.ly/ssi-team6-m)
   * [Allan Poe Exercise]()
+  * [Google Colab]()
+  * [Presentation]()
+  * [Video]()
 * Team 7
   * [Mural](https://bit.ly/ssi-team7-m)
   * [Allan Poe Exercise]()
+  * [Google Colab]()
+  * [Presentation]()
+  * [Video]()
 * Team 8
   * [Mural](https://bit.ly/ssi-team8-m)
   * [Allan Poe Exercise]()
+  * [Google Colab]()
+  * [Presentation]()
+  * [Video]()
 * Team 9
   * [Mural](https://bit.ly/ssi-team9-m)
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/1okXBmoGv7OueA9oTj5eFEvvPcld_qjk5f0-oeOX_gVQ/edit?ts=5f32eaea#slide=id.p)
+  * [Google Colab]()
+  * [Presentation]()
+  * [Video]()
 * Team 10
   * [Mural](https://bit.ly/ssi-team10-m)
   * [Allan Poe Exercise]()
+  * [Google Colab]()
+  * [Presentation]()
+  * [Video]()
