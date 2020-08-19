@@ -47,6 +47,7 @@
 * [Ice breaker activity](https://bit.ly/ssi-icebreaker)
 * [Data Visulization Slides](https://bit.ly/ssi2020viz)
 * [Design Thinking Slides](https://bit.ly/ssi2020dt)
+* [Storytelling](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/STORYTELLING.pdf)
 
 ## Presentations
 
@@ -103,6 +104,7 @@
 
 * [Video: Explainer: What is Design Thinking?](https://www.youtube.com/watch?v=_WI3B54m6SU)
 * [Design Thinking at IDEO](https://www.ideou.com/pages/design-thinking)
+
 
 ### Billion Oyster Project (BOP)
 
