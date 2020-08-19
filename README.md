@@ -30,7 +30,7 @@
 * Documentation - GitHub
 * Exploration of the data - Excel
 * Code - Python, Google Colab, GitHub
-* Design thinking - Mural
+* Design thinking - Mural, Mentimeter
 * Presentation - Google Docs
 
 ## Google Colab slides
