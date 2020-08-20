@@ -49,10 +49,6 @@
 
 * [Mural on likes and dislikes](https://bit.ly/ssi-feedback)
 
-## NSF presentation
-
-* Dr. M. Alejandra Sorto, Professor of Mathematics at Texas State University and Program Office at NSF
-
 ## Science presentations
 
 * Agata Poniatowski, Education Outreach Coordinator at the Billion Oyster Project. [Slides](https://docs.google.com/presentation/d/1TKxkSpPoYSH3IW7vy0Qdzj10VNR3K3VnQZzfJ4RID0E/edit?usp=drivesdk)
