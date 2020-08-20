@@ -146,7 +146,7 @@ Presentations, code, murals etc.
 * Team 3
   * [Mural](https://bit.ly/ssi-team3-m)
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/1gU0OoceGdDtpgVHkkbfTtVTTTuTm96xYa_cVgtYNCDY/edit#slide=id.p)
-  * [Google Colab]()
+  * [Google Colab](https://colab.research.google.com/drive/16gAYKNv21_uKKp0_x32DMypM4xudW1ix#scrollTo=P-bafS2zq_PY)
   * [Presentation](https://docs.google.com/presentation/d/1_6Yl8Xdc8qDhdoeKm-fRjGpaWPcI4szzeCsNNn4149w)
   * [Video]()
 * Team 4
