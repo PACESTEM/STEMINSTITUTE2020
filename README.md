@@ -134,7 +134,7 @@ Presentations, code, murals etc.
 * Team 1
   * [Mural](https://bit.ly/ssi-team1-m)
   * [Allan Poe Exercise](https://docs.google.com/spreadsheets/d/1XFUAdrDo9r3VWcfg1zBwfcl8gbG2exaA7KApdwHjw2I/edit?usp=sharing)
-  * [Google Colab](https://colab.research.google.com/drive/10yyPjOEO2Pn12Y3_wyhIInvFAvfScse-?usp=sharing)
+  * [Google Colab](https://docs.google.com/presentation/d/13nNFACFgkOPtA_eJPXo7oPyRqhZlPLOKkJMedcTZEc0/edit?usp=sharing)
   * [Presentation](https://docs.google.com/presentation/d/13nNFACFgkOPtA_eJPXo7oPyRqhZlPLOKkJMedcTZEc0/edit?usp=sharing)
   * [Video]()
 * Team 2
@@ -165,29 +165,29 @@ Presentations, code, murals etc.
   * [Mural](https://bit.ly/ssi-team6-m)
   * [Allan Poe Exercise]()
   * [Google Colab]()
-  * [Presentation]()
+  * [Presentation](https://docs.google.com/presentation/d/1j-_u4y8PoPMN3YawZmoF_eEaq51aZ90EP0ghvys7BSE/edit#slide=id.g912d3dd822_2_677)
   * [Video]()
 * Team 7
   * [Mural](https://bit.ly/ssi-team7-m)
   * [Allan Poe Exercise]()
   * [Google Colab]()
-  * [Presentation]()
+  * [Presentation](https://docs.google.com/presentation/d/1rlLbVAfA6GgCEqMmOXPZqQTnKijb4Gf7TiqU8gOwYe4)
   * [Video]()
 * Team 8
   * [Mural](https://bit.ly/ssi-team8-m)
   * [Allan Poe Exercise]()
   * [Google Colab]()
-  * [Presentation]()
+  * [Presentation](https://docs.google.com/presentation/d/1LmV2Iik8RuN4SNtEqS8j45UbXiTBievOXd4bNDakYG0/)
   * [Video]()
 * Team 9
   * [Mural](https://bit.ly/ssi-team9-m)
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/1okXBmoGv7OueA9oTj5eFEvvPcld_qjk5f0-oeOX_gVQ/edit?ts=5f32eaea#slide=id.p)
   * [Google Colab]()
-  * [Presentation]()
+  * [Presentation](https://docs.google.com/presentation/d/1_925f9PlDD7NL_Ls6P8p65fsNw7BwgluXbEUVbj-ShY)
   * [Video]()
 * Team 10
   * [Mural](https://bit.ly/ssi-team10-m)
   * [Allan Poe Exercise]()
   * [Google Colab]()
-  * [Presentation]()
+  * [Presentation](https://docs.google.com/presentation/d/1t7pKOs6zqM0CMx9qhNt0vyi7CTycJz95ogB8Wu46Awg)
   * [Video]()
