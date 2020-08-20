@@ -56,8 +56,9 @@
 
 ## Company presentations
 
-* [AppFigures](https://appfigures.com)
-* Google
+* [AppFigures, panel with Ariel Michaeli and Oz Michaeli : Co-founders of Appfigures, and Daniel Vogel : Junior Javascript Developer](https://appfigures.com)
+* Panel of Googlers: Lukman Ramsey, Krista Kohler, Eric Poon, and Amber Morse (Moderator)
+* [Careers in Technology, Dr. Jane Shmidt, Careers Services, Pace University and Emma Klainberg, Advisor, Seidenberg, Pace University](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/Careers%20in%20Technology.pdf)
 
 ## Data
 
@@ -109,7 +110,6 @@
 
 * [Video: Explainer: What is Design Thinking?](https://www.youtube.com/watch?v=_WI3B54m6SU)
 * [Design Thinking at IDEO](https://www.ideou.com/pages/design-thinking)
-
 
 ### Billion Oyster Project (BOP)
 
