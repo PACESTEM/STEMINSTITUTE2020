@@ -148,7 +148,7 @@ Presentations, code, murals etc.
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/1gU0OoceGdDtpgVHkkbfTtVTTTuTm96xYa_cVgtYNCDY/edit#slide=id.p)
   * [Google Colab](https://colab.research.google.com/drive/16gAYKNv21_uKKp0_x32DMypM4xudW1ix#scrollTo=P-bafS2zq_PY)
   * [Presentation](https://docs.google.com/presentation/d/1_6Yl8Xdc8qDhdoeKm-fRjGpaWPcI4szzeCsNNn4149w)
-  * [Video]()
+  * [Video](https://pacestem2020.slack.com/files/U019143NGGY/F0197SHG6P4/team_three_mukseteers_.mp4)
 * Team 4
   * [Mural](https://bit.ly/ssi-team4-m)
   * [Allan Poe Exercise]()
