@@ -35,12 +35,8 @@
 
 ## Google Colab slides
 
-* [Slides](https://drive.google.com/file/d/1WQQcuEWbzwe_rlfRMxnfXoWI4e2QwSNf/view?usp=sharing)
+* [Google Colab Slides](https://drive.google.com/file/d/1WQQcuEWbzwe_rlfRMxnfXoWI4e2QwSNf/view?usp=sharing)
 * Edgar Allan Poe text http://webpage.pace.edu/fparisi/STEM-2020/Python/poe.txt
-
-## Likes and dislikes
-
-* [Mural on likes and dislikes](https://bit.ly/ssi-feedback)
 
 ## Design thinking
 
@@ -48,6 +44,14 @@
 * [Data Visulization Slides](https://bit.ly/ssi2020viz)
 * [Design Thinking Slides](https://bit.ly/ssi2020dt)
 * [Storytelling](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/STORYTELLING.pdf)
+
+## Likes and dislikes
+
+* [Mural on likes and dislikes](https://bit.ly/ssi-feedback)
+
+## NSF presentation
+
+* Dr. M. Alejandra Sorto, Professor of Mathematics at Texas State University and Program Office at NSF
 
 ## Science presentations
 
