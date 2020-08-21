@@ -188,6 +188,6 @@ Presentations, code, murals etc.
 * Team 10
   * [Mural](https://bit.ly/ssi-team10-m)
   * [Allan Poe Exercise]()
-  * [Google Colab](https://colab.research.google.com/drive/1i9MuUvCLP8tPPZW81OThzufYSylEXYQt)
+  * [Google Colab](https://colab.research.google.com/drive/1i9MuUvCLP8tPPZW81OThzufYSylEXYQt?usp=sharing)
   * [Presentation](https://docs.google.com/presentation/d/1t7pKOs6zqM0CMx9qhNt0vyi7CTycJz95ogB8Wu46Awg)
   * [Video](https://drive.google.com/file/d/1Yil_c-os_dL1dzOwyN4s7WzRr6fxQ_Q_/view?usp=sharing)
