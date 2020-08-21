@@ -182,7 +182,7 @@ Presentations, code, murals etc.
 * Team 9
   * [Mural](https://bit.ly/ssi-team9-m)
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/1okXBmoGv7OueA9oTj5eFEvvPcld_qjk5f0-oeOX_gVQ/edit?ts=5f32eaea#slide=id.p)
-  * [Google Colab]()
+  * [Google Colab](https://colab.research.google.com/drive/1os6KTR2VclR6QVTMBOPa3L1mtxH5_wJr#scrollTo=Z3ODBfZYZFNe)
   * [Presentation](https://docs.google.com/presentation/d/1_925f9PlDD7NL_Ls6P8p65fsNw7BwgluXbEUVbj-ShY)
   * [Video]()
 * Team 10
