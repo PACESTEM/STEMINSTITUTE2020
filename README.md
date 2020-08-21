@@ -60,6 +60,10 @@
 * Panel of Googlers: Lukman Ramsey, Krista Kohler, Eric Poon, and Amber Morse (Moderator)
 * [Careers in Technology, Dr. Jane Shmidt, Careers Services, Pace University and Emma Klainberg, Advisor, Seidenberg, Pace University](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/Careers%20in%20Technology.pdf)
 
+## Wrap-up presentation
+
+* [Final presentation closing](https://docs.google.com/presentation/d/1fCCKHlIiA_ZTHPO2E6g0MC9VUW6639QfCR2byu09zL8/edit?usp=sharing)
+
 ## Data
 
 * Data are [here](https://drive.google.com/drive/folders/1EF0EUTior7hIFgv_HBu80L3dimEYRVYm?usp=sharing). You can also the data [here](https://github.com/PACESTEM/STEMINSTITUTE2020) and clone the repository. 
