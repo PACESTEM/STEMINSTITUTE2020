@@ -136,13 +136,13 @@ Presentations, code, murals etc.
   * [Allan Poe Exercise](https://docs.google.com/spreadsheets/d/1XFUAdrDo9r3VWcfg1zBwfcl8gbG2exaA7KApdwHjw2I/edit?usp=sharing)
   * [Google Colab](https://colab.research.google.com/drive/10yyPjOEO2Pn12Y3_wyhIInvFAvfScse-?usp=sharing)
   * [Presentation](https://docs.google.com/presentation/d/13nNFACFgkOPtA_eJPXo7oPyRqhZlPLOKkJMedcTZEc0/edit?usp=sharing)
-  * [Video](https://pacestem2020.slack.com/files/U0187UBK63F/F019LKH6ZLZ/zoom_10.mp4)
+  * [Video](https://youtu.be/1CzwGnT7t5k)
 * Team 2
   * [Mural](https://bit.ly/ssi-team2-m)
   * [Allan Poe Exercise]()
   * [Google Colab]()
   * [Presentation](https://docs.google.com/presentation/d/1Vj_L8_MFiQsVuMbhSGaD-2A1VZgAem6qinkBZGDXU4U)
-  * [Video]()
+  * [Video](https://youtu.be/mu8hFZk7ILU)
 * Team 3
   * [Mural](https://bit.ly/ssi-team3-m)
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/1gU0OoceGdDtpgVHkkbfTtVTTTuTm96xYa_cVgtYNCDY/edit#slide=id.p)
