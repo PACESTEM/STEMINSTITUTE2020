@@ -166,7 +166,7 @@ Presentations, code, murals etc.
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/1Na9Ez_JkAuqXYjoCJcTTIqgCFRUitwPd_8leQ4qsOTE/edit#slide=id.p)
   * [Google Colab](https://colab.research.google.com/drive/1e_29lvN0Oz_XwsN7ElEEHIrnU_hyqTro#scrollTo=R3rntm1M9e2i)
   * [Presentation](https://docs.google.com/presentation/d/1j-_u4y8PoPMN3YawZmoF_eEaq51aZ90EP0ghvys7BSE/edit#slide=id.g912d3dd822_2_677)
-  * [Video](https://drive.google.com/drive/folders/1MFQzv8dVCjx3LpssgpUhnHZRHuOaBqMv)
+  * [Video](https://www.youtube.com/watch?v=nexNu_IvdYQ&list=PLNb9cNy6icBrAHxMdm0KRw6OiapVpXBDi&index=6)
 * Team 7
   * [Mural](https://bit.ly/ssi-team7-m)
   * [Allan Poe Exercise]()
