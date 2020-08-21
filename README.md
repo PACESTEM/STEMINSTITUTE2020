@@ -190,4 +190,4 @@ Presentations, code, murals etc.
   * [Allan Poe Exercise]()
   * [Google Colab](https://colab.research.google.com/drive/1i9MuUvCLP8tPPZW81OThzufYSylEXYQt)
   * [Presentation](https://docs.google.com/presentation/d/1t7pKOs6zqM0CMx9qhNt0vyi7CTycJz95ogB8Wu46Awg)
-  * [Video]()
+  * [Video](https://drive.google.com/file/d/1Yil_c-os_dL1dzOwyN4s7WzRr6fxQ_Q_/view?usp=sharing)
