@@ -140,7 +140,7 @@ Presentations, code, murals etc.
 * Team 2
   * [Mural](https://bit.ly/ssi-team2-m)
   * [Allan Poe Exercise]()
-  * [Google Colab]()
+  * [Google Colab](https://colab.research.google.com/drive/1HCyKECTZkQaCCCpk3WGtxYmUjN5QI6ZK?usp=sharing)
   * [Presentation](https://docs.google.com/presentation/d/1Vj_L8_MFiQsVuMbhSGaD-2A1VZgAem6qinkBZGDXU4U)
   * [Video](https://youtu.be/mu8hFZk7ILU)
 * Team 3
