@@ -194,7 +194,11 @@ Presentations, code, murals etc.
   * [Presentation](https://docs.google.com/presentation/d/1t7pKOs6zqM0CMx9qhNt0vyi7CTycJz95ogB8Wu46Awg)
   * [Video](https://youtu.be/OsGN87Jjpec)
 
+## Ceremony
+
+* [Opening presentation](https://docs.google.com/presentation/d/1fCCKHlIiA_ZTHPO2E6g0MC9VUW6639QfCR2byu09zL8/edit?usp=sharing)
+* [Ceremony - students' presentations](https://youtu.be/k42RVPOVNnU)
+
 ## Videos
 
-* [Ceremony presentations](https://youtu.be/k42RVPOVNnU)
 * [Teams' video playlist](https://www.youtube.com/playlist?list=PLNb9cNy6icBrAHxMdm0KRw6OiapVpXBDi)
