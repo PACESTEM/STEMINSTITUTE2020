@@ -148,19 +148,19 @@ Presentations, code, murals etc.
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/1gU0OoceGdDtpgVHkkbfTtVTTTuTm96xYa_cVgtYNCDY/edit#slide=id.p)
   * [Google Colab](https://colab.research.google.com/drive/16gAYKNv21_uKKp0_x32DMypM4xudW1ix#scrollTo=P-bafS2zq_PY)
   * [Presentation](https://docs.google.com/presentation/d/1_6Yl8Xdc8qDhdoeKm-fRjGpaWPcI4szzeCsNNn4149w)
-  * [Video](https://drive.google.com/file/d/1Ptfi0AnBDPb6RjwnL0K6MLYyNj1nZ-ZF/view?usp=sharing)
+  * [Video](https://youtu.be/pai_wpuZ-gQ)
 * Team 4
   * [Mural](https://bit.ly/ssi-team4-m)
   * [Allan Poe Exercise]()
   * [Google Colab]()
   * [Presentation](https://docs.google.com/presentation/d/1lRWLf_7ziUgu7fu8Nf3ZLLJ7ne6OoPDe7Aq7HTRjAdY/)
-  * [Video]()
+  * [Video](https://youtu.be/opujwES1LyQ)
 * Team 5
   * [Mural](https://bit.ly/ssi-team5-m)
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/151LHLPs7OzuJkp81vRVNB68dzIUpObAI1hnKBAUxSG0/edit?usp=sharing)
   * [Google Colab](https://drive.google.com/file/d/1wn-3Y6QSeNQKL2OmCah_K7vzpxh2YL8f/view?usp=sharing)
   * [Presentation](https://docs.google.com/presentation/d/1H_9I3qmducNgctZZ0zZ7dSKQ8B1BVX49Y6obZE1v_Qw/edit?usp=sharing)
-  * [Video]()
+  * [Video](https://youtu.be/B01uEDSD8E4)
 * Team 6
   * [Mural](https://bit.ly/ssi-team6-m)
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/1Na9Ez_JkAuqXYjoCJcTTIqgCFRUitwPd_8leQ4qsOTE/edit#slide=id.p)
@@ -172,22 +172,27 @@ Presentations, code, murals etc.
   * [Allan Poe Exercise]()
   * [Google Colab]()
   * [Presentation](https://docs.google.com/presentation/d/1rlLbVAfA6GgCEqMmOXPZqQTnKijb4Gf7TiqU8gOwYe4)
-  * [Video]()
+  * [Video](https://youtu.be/U7uOoAHWD4g)
 * Team 8
   * [Mural](https://bit.ly/ssi-team8-m)
   * [Allan Poe Exercise]()
   * [Google Colab]()
   * [Presentation](https://docs.google.com/presentation/d/1LmV2Iik8RuN4SNtEqS8j45UbXiTBievOXd4bNDakYG0/)
-  * [Video]()
+  * [Video](https://youtu.be/x_qS8fSU79c)
 * Team 9
   * [Mural](https://bit.ly/ssi-team9-m)
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/1okXBmoGv7OueA9oTj5eFEvvPcld_qjk5f0-oeOX_gVQ/edit?ts=5f32eaea#slide=id.p)
   * [Google Colab](https://colab.research.google.com/drive/1os6KTR2VclR6QVTMBOPa3L1mtxH5_wJr#scrollTo=Z3ODBfZYZFNe)
   * [Presentation](https://docs.google.com/presentation/d/1_925f9PlDD7NL_Ls6P8p65fsNw7BwgluXbEUVbj-ShY)
-  * [Video]()
+  * [Video](https://youtu.be/fiJkHduliUI)
 * Team 10
   * [Mural](https://bit.ly/ssi-team10-m)
   * [Allan Poe Exercise](https://docs.google.com/spreadsheets/d/1ENui1KpVSrCM41ZoY0-Di_aiHooub0qonmgEJ5IWICQ/edit?usp=sharing)
   * [Google Colab](https://colab.research.google.com/drive/1i9MuUvCLP8tPPZW81OThzufYSylEXYQt?usp=sharing)
   * [Presentation](https://docs.google.com/presentation/d/1t7pKOs6zqM0CMx9qhNt0vyi7CTycJz95ogB8Wu46Awg)
-  * [Video](https://drive.google.com/file/d/1Yil_c-os_dL1dzOwyN4s7WzRr6fxQ_Q_/view?usp=sharing)
+  * [Video](https://youtu.be/OsGN87Jjpec)
+
+## Videos
+
+* [Ceremony presentations](https://youtu.be/k42RVPOVNnU)
+* [Teams' video playlist](https://www.youtube.com/playlist?list=PLNb9cNy6icBrAHxMdm0KRw6OiapVpXBDi)
